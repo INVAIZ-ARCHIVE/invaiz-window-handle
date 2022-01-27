@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/INVAIZ/invaiz-window-handle/issues"
   },
-  "homepage": "https://github.com/INVAIZ/invaiz-window-handle#readme"
+  "homepage": "https://github.com/INVAIZ/invaiz-window-handle#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
