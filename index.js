@@ -1,4 +1,6 @@
 module.exports =
-  process.platform === "darwin"
+  process.platform !== "darwin"
     ? require("./lib/macos.node")
-    : require("./lib/windows.node");
+    : {
+        sendMessage: (messageType, actionType, typeKey, s) => {},
+      };
