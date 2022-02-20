@@ -2,7 +2,7 @@
 
 🖼📟💷🖥⚙`Windows`, `macOS`에서 모두 사용할 수 있는 크로스 플랫폼 `Window Handler`, 창 조작, 관리 기능을 `npm`을 통해 배포하는 프로젝트입니다.
 
-- `npm install invaiz-window-handle` 명령어를 통해 사용할 수 있습니다.
+- `npm install invaiz-window-handle` 명령어를 통해 다운 받아 사용할 수 있습니다.
 
 ```shell
 npm install invaiz-window-handle
