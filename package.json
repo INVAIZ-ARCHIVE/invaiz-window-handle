@@ -1,6 +1,6 @@
 {
   "name": "invaiz-window-handle",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "description": "control to window handle by INVAIZ",
   "main": "index.js",
   "scripts": {
